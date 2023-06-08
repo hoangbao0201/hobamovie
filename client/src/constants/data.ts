@@ -1,0 +1,1 @@
+export const imageCard = "https://res.cloudinary.com/djrbd6ftt/image/upload/v1685718983/hobanovel/novel/thumbnail/1685718981938.jpg"
